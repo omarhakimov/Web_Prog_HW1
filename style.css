@@ -291,3 +291,13 @@ span.radio {
 	gap: 20px;
 	width: 150px;
 }
+.explanation {
+	margin: 0 auto;
+	width: 900px;
+	margin-top: 32px;
+}
+
+.explanation p {
+	font-size: 24px;
+	font-weight: 600;
+}
